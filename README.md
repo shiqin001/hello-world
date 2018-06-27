@@ -1,2 +1,4 @@
 # hello-world
-just another rep
+hi humans:
+
+Hubot here, I like Node.js!
